@@ -1,2 +1,2 @@
-# microversProyect
-Microverse HTML/CSS Proyect
+# microversProject
+Microverse HTML/CSS Project
